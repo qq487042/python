@@ -28,7 +28,8 @@
 1. 查看文件状态：git status
 2. 查看远程仓库有哪些：git remote -v
 3. 删除不要的远程仓库：git remote rm 远程仓库名
+4. 回退版本：git reset --hard 版本号
 ```
 [爱css](htts://icss.me)
 
->     每多学一点知识，就少写一行代码
+> 每多学一点知识，就少写一行代码
