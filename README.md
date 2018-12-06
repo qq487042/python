@@ -32,6 +32,6 @@
 4. 回退版本：git reset --hard 版本号
 ```
 
-[爱css](htts://icss.me)
+[爱css](https://icss.me)
 
 > 每多学一点知识，就少写一行代码
