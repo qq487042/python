@@ -13,7 +13,7 @@
 
 3. 初始化本地库，先`cd`到`python`：`git init`
 
-4. 本地生成ssh-key,查看是否有：`$ cd ~/.ssh`，如果没有这个文件夹，则生成：`$ ssh-keygen`
+4. 本地生成ssh-key,查看是否有：`$ cd ~/.ssh`，如果没有这个文件夹，则生成：`$ ssh-keygen -t rsa -C "xxx@xxx.com"`，在终端添加SSH信任：`ssh -T git@gitee.com`
 
 5. 复制KEY到码云个的设置-安全设置-SSH公钥：`$ cat ~/.ssh/id_rsa.pub`
 
