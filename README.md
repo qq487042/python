@@ -112,4 +112,4 @@ git push gitee master
 
 [爱css](https://icss.me)
 
-> 每多学一点知识，就少写一行代码
+> 每多学一点知识，就少写一行代码，测试一下
